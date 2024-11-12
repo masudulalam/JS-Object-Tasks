@@ -20,6 +20,6 @@ const car = {
     year: 2020
 };
 
-car.passenger = 5;
+car['passenger capacity'] = 5;
 
 console.log(car);
