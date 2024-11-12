@@ -21,3 +21,5 @@ const colors = {
     blue: "#0000ff",
     "golden rod": '#daa520'
 };
+
+console.log('Value of golden rod color is:',colors["golden rod"]);
